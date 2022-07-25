@@ -10,7 +10,7 @@
 #import "UIView+Toast.h"
 #import <React/RCTUtils.h>
 
-NSInteger const LRDRCTSimpleToastBottomOffset = 40;
+NSInteger const LRDRCTSimpleToastBottomOffset = 90;
 double const LRDRCTSimpleToastShortDuration = 3.0;
 double const LRDRCTSimpleToastLongDuration = 5.0;
 
